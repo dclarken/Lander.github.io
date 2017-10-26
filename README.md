@@ -1,3 +1,8 @@
-# Lander.github.io  
-Hexo+Github搭建博客V1  
-犹豫考虑地址过长，文件V2转换到了hexoblog中
+# Lander.github.io  
+Building a personal blog
+Hexo+Github.blogV1.0 
+  Build framework
+  Deploy the Next backgroud
+Hexo+Github.blogV2.0 
+  Clone into hexoblog respository
+  Change the domain name of personal blog
